@@ -1,0 +1,8 @@
+{
+  "name": "git-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Cherdinand/git-demo.git",
+  "author": "chenxinxin <736119088@qq.com>",
+  "license": "MIT"
+}
